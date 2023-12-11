@@ -1,2 +1,7 @@
-package Utils;public class homepageUtils {
+package Utils;
+
+public class homepageUtils {
+    public static void main(String[] args) {
+
+    }
 }
